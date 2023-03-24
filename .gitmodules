@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FixedPoint"]
+	path = FixedPoint
+	url = https://github.com/cran/FixedPoint
+	shallow = true
+	registered = true
+[submodule "schumaker"]
+	path = schumaker
+	url = https://github.com/cran/schumaker
+	shallow = true
+	registered = true
